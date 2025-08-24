@@ -47,7 +47,7 @@ As classes TestaInsere e TestaLista demonstram como utilizar os métodos do DAO:
 - TestaInsere: cria e insere um novo contato no banco.
 - TestaLista: lista todos os contatos e formata a data de nascimento.
 
-### Tecnologias Utilizadas
+Tecnologias Utilizadas
     - Java SE
     - JDBC
     - MySQL
